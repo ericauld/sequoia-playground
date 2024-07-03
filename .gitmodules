@@ -1,0 +1,3 @@
+[submodule "sequoia"]
+	path = sequoia
+	url = https://github.com/ericauld/Sequoia.git
